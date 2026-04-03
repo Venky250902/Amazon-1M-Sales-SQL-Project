@@ -29,7 +29,8 @@ But what makes this project powerful is the scale, structure, and real-world bus
 
 ## 🏗️ Data Model (ERD)
 
-![ERD](./erd.png)
+<img width="1310" height="776" alt="erd" src="https://github.com/user-attachments/assets/0ce09a6c-b486-4c0d-acff-85200678616b" />
+
 
 This project is built on a **relational data model** with 5 core tables:
 
