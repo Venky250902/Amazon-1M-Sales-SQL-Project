@@ -1,7 +1,8 @@
 # 🍎 Apple Retail Sales SQL Project  
 ### Analyzing 1M+ Sales Records with Advanced SQL
 
-![Apple Store](./Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)
+![Apple_Changsha_RetailTeamMembers_09012021_big jpg slideshow-xlarge_2x](https://github.com/user-attachments/assets/63be0db5-2476-46ce-9a94-d42260868325)
+
 
 ---
 
